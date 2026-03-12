@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+
+*.log
+*.tmp
+.cache
+tmp
+
+.vscode
+.idea
+
+minhapp/app/www/uploads
+minhapp/app/www/tmp
+minhapp/app/www/cache
+minhapp/app/www/results
